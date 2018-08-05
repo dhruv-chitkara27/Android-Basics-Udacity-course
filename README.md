@@ -2,4 +2,4 @@
 
 Basic XML has been covered under this course.
 
-Projects are made during the Android-Basics-Course by Udacity.
+Projects are made during the Android-Basics-Course By Udacity.
